@@ -1,15 +1,17 @@
 +++
-categories = []
-date = ""
-description = ""
+categories = ["Travel"]
+date = 2023-02-15T18:15:00Z
+description = "Vietnam is a stunning country in the heart of Southeast Asia. It is an amazing destination with many beautiful landscapes"
 draft = true
-image = ""
-tags = []
-title = "Vietnam travel"
-type = ""
+image = "/images/vietnam-travel.webp"
+tags = ["Asia", "Vietnam", "Food"]
+title = "Vietnam Travel"
+type = "featured"
 
 +++
 Vietnam is in the eastern region of Asia and has a population of around 100 million. It was once part of French Indochina until the civil war divided it into two countries in 1954. The northern region became North Vietnam, while the southern territory became South Vietnam. A communist government ruled North Vietnam, which was involved in the Vietnam War from 1965 to 1975. The country is now a socialist republic, and its economy depends on agriculture and manufacturing. North Vietnam’s main exports are rice, coffee, and rubber. The country has several natural and cultural attractions, including the UNESCO World Heritage Site of Halong Bay, the limestone mountain regions of Northern Vietnam, and the bustling capital city of Hanoi.
+
+![A city in Vietnam](/images/vietnam-travel.webp "A city in Vietnam")
 
 Vietnam is a stunning country in the heart of Southeast Asia. It is an amazing destination with many beautiful landscapes, lush rainforests, and gorgeous beaches. Central Vietnam is especially noteworthy, boasting some of the country’s most impressive sights, attractions, and experiences. From the stunning Hai Van Pass and the ancient city of Hoi An to the bustling city of Hue, Central Vietnam is truly a sight to behold. From the breathtaking nature to the rich cultural heritage, Central Vietnam has something for everyone.
 
@@ -77,7 +79,11 @@ Vietnamese food is becoming more and more popular in the United States. And it�
 
 If you’re new to Vietnamese food, a good place to start is with pho. Pho is a rice noodle soup typically made with beef or chicken. The Vietnamese serve it with various toppings, such as bean sprouts, cilantro, and lime.
 
+![Vietnamese Pho](/images/pho-vietnamese-food.webp "Vietnamese Pho")
+
 Banh mi is another popular Vietnamese dish. Banh mi is a sandwich with a crusty baguette filled with meats, pickled vegetables, and fresh herbs.
+
+![Vietnamese Banh ](/images/traditional-tet-vietnam.webp)
 
 Other popular Vietnamese dishes include spring rolls, summer rolls, and bahn xeo. Spring rolls contain pork, shrimp, vegetables, and a dipping sauce. Summer rolls are like spring rolls but without frying. Bahn xeo is a savory pancake made with shrimp, pork, and bean sprouts.
 
