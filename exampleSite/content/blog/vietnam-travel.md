@@ -5,7 +5,7 @@ description = "Vietnam is a stunning country in the heart of Southeast Asia. It 
 image = "/images/vietnamese-girl.webp"
 tags = ["Asia", "Vietnam", "Food"]
 title = "Vietnam Travel - A Crash Course"
-type = "featured"
+type = "post"
 
 +++
 Vietnam is in the eastern region of Asia and has a population of around 100 million. It was once part of French Indochina until the civil war divided it into two countries in 1954. The northern region became North Vietnam, while the southern territory became South Vietnam. A communist government ruled North Vietnam, which was involved in the Vietnam War from 1965 to 1975. The country is now a socialist republic, and its economy depends on agriculture and manufacturing. North Vietnam’s main exports are rice, coffee, and rubber. The country has several natural and cultural attractions, including the UNESCO World Heritage Site of Halong Bay, the limestone mountain regions of Northern Vietnam, and the bustling capital city of Hanoi.
