@@ -2,10 +2,9 @@
 categories = ["Travel"]
 date = 2023-02-15T18:15:00Z
 description = "Vietnam is a stunning country in the heart of Southeast Asia. It is an amazing destination with many beautiful landscapes"
-draft = true
 image = "/images/vietnam-travel.webp"
 tags = ["Asia", "Vietnam", "Food"]
-title = "Vietnam Travel"
+title = "Vietnam Travel - A Crash Course"
 type = "featured"
 
 +++
